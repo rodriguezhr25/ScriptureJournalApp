@@ -23,7 +23,7 @@ header, .footer {
 }
 
 .navbar a:hover, .container a:hover {
-        color: #000000;
+        color: #f3fc16;
         text-decoration: none;
  }
 .note-cell {
